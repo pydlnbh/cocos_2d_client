@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "926fc5de-c7ce-4688-a0cb-5e2b11931587",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 434,
+  "height": 205,
+  "platformSettings": {},
+  "subMetas": {
+    "Hero_Shaman": {
+      "ver": "1.0.4",
+      "uuid": "1ce1352f-3862-4329-9f38-a768a8f3e03d",
+      "rawTextureUuid": "926fc5de-c7ce-4688-a0cb-5e2b11931587",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 430,
+      "height": 201,
+      "rawWidth": 434,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

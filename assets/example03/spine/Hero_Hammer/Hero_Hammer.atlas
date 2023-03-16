@@ -1,0 +1,48 @@
+
+Hero_Hammer.png
+size: 495,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 373, 66
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 3
+  size: 166, 199
+  orig: 166, 199
+  offset: 0, 0
+  index: -1
+LHand
+  rotate: false
+  xy: 203, 2
+  size: 168, 167
+  orig: 168, 167
+  offset: 0, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 455, 33
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: true
+  xy: 373, 13
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: false
+  xy: 455, 102
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1

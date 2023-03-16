@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a12e5cb5-3a54-4682-b989-3b1521efac1f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 416,
+  "height": 141,
+  "platformSettings": {},
+  "subMetas": {
+    "Hero_Skeleton": {
+      "ver": "1.0.4",
+      "uuid": "0a41c2b0-07b5-4c25-bb4f-6d5b013380a2",
+      "rawTextureUuid": "a12e5cb5-3a54-4682-b989-3b1521efac1f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 412,
+      "height": 137,
+      "rawWidth": 416,
+      "rawHeight": 141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

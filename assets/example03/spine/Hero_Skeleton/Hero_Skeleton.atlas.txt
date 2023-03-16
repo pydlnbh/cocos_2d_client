@@ -1,0 +1,48 @@
+
+Hero_Skeleton.png
+size: 416,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img/Body
+  rotate: true
+  xy: 291, 2
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+Img/Head
+  rotate: true
+  xy: 2, 4
+  size: 135, 179
+  orig: 135, 179
+  offset: 0, 0
+  index: -1
+Img/LHand
+  rotate: true
+  xy: 183, 7
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+Img/LLeg
+  rotate: false
+  xy: 372, 86
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+Img/RHand
+  rotate: true
+  xy: 291, 64
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+Img/RLeg
+  rotate: false
+  xy: 385, 31
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
